@@ -74,6 +74,9 @@ button {
 .fotter {
     margin-top: 3rem;
     font-size: 1.5rem;
+    background-color:  black;
+    padding: 1rem;
+    border-radius: .5rem;
 }
 
 /* hover */
